@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\ConsoleAppDatabase\ConsoleAppDatabase\bin\Debug\ConsoleAppDatabase.exe.config
+C:\Users\Lenovo\source\repos\ConsoleAppDatabase\ConsoleAppDatabase\bin\Debug\ConsoleAppDatabase.exe
+C:\Users\Lenovo\source\repos\ConsoleAppDatabase\ConsoleAppDatabase\bin\Debug\ConsoleAppDatabase.pdb
+C:\Users\Lenovo\source\repos\ConsoleAppDatabase\ConsoleAppDatabase\obj\Debug\ConsoleAppDatabase.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\ConsoleAppDatabase\ConsoleAppDatabase\obj\Debug\ConsoleAppDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\ConsoleAppDatabase\ConsoleAppDatabase\obj\Debug\ConsoleAppDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\ConsoleAppDatabase\ConsoleAppDatabase\obj\Debug\ConsoleAppDatabase.exe
+C:\Users\Lenovo\source\repos\ConsoleAppDatabase\ConsoleAppDatabase\obj\Debug\ConsoleAppDatabase.pdb

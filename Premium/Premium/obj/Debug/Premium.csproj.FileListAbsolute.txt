@@ -1,0 +1,8 @@
+C:\Users\Lenovo\source\repos\Premium\Premium\bin\Debug\Premium.exe.config
+C:\Users\Lenovo\source\repos\Premium\Premium\bin\Debug\Premium.exe
+C:\Users\Lenovo\source\repos\Premium\Premium\bin\Debug\Premium.pdb
+C:\Users\Lenovo\source\repos\Premium\Premium\obj\Debug\Premium.csproj.AssemblyReference.cache
+C:\Users\Lenovo\source\repos\Premium\Premium\obj\Debug\Premium.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\source\repos\Premium\Premium\obj\Debug\Premium.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\source\repos\Premium\Premium\obj\Debug\Premium.exe
+C:\Users\Lenovo\source\repos\Premium\Premium\obj\Debug\Premium.pdb

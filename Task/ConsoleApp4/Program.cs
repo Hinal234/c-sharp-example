@@ -48,6 +48,5 @@ namespace ConsoleApp4
         public int distance { get; set; }
 
 
-
     }
 }
